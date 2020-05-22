@@ -1,0 +1,23 @@
+/* VIEW PAGE */
+
+body 
+{
+    background-color: #dB2c2e;
+}
+
+.admin
+{
+    background: #fff;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.text-logo
+{
+    
+    color: #fff;
+    text-shadow: 2px 2px #333;
+    font-size: 50px;
+    padding: 15px 0px;
+    text-align: center;
+}
